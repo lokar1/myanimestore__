@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0b1020" />
+  <title>@myanimestore__ | Games Store</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <link rel="stylesheet" href="styles.css" />
+<script defer src="/static/js/bundle.js"></script><script>
+if(window.self!==window.top){
+  var s=document.createElement("script");s.src="/visual-edit-overlay.js";document.head.appendChild(s);
+  window.tailwind=window.tailwind||{};tailwind.config={corePlugins:{preflight:false}};var t=document.createElement("script");t.src="https://cdn.tailwindcss.com";document.head.appendChild(t);
+}
+</script>
+</head>
+<body>
+
+  <!-- TOP HEADER -->
+  <header class="top-header" data-testid="top-header">
+    <div class="header-left">
+      <div class="logo" data-testid="site-logo">
+        <i class="fa-solid fa-gamepad"></i>
+        <span>@myanimestore__</span>
+      </div>
+    </div>
+
+    <div class="header-center"></div>
+
+    <div class="header-right">
+      <div class="donate-wrapper">
+        <button id="donateBtn" class="donate-btn" data-testid="donate-btn">
+          <i class="fa-solid fa-heart"></i> <span>Donate</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- NAVBAR -->
+  <nav class="main-nav" data-testid="main-nav">
+    <ul>
+      <li><a href="#home" class="nav-link active" data-testid="nav-home">Home</a></li>
+      <li><a href="#action" class="nav-link" data-testid="nav-action">Action</a></li>
+      <li><a href="#adventure" class="nav-link" data-testid="nav-adventure">Adventure</a></li>
+      <li><a href="#horror" class="nav-link" data-testid="nav-horror">Horror</a></li>
+      <li><a href="#racing" class="nav-link" data-testid="nav-racing">Racing</a></li>
+      <li><a href="#puzzle" class="nav-link" data-testid="nav-puzzle">Puzzle</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="home" data-testid="hero-section">
+    <div class="hero-bg"></div>
+    <div class="hero-content">
+      <span class="hero-chip"><i class="fa-solid fa-fire"></i> New Drops This Week</span>
+      <h1>Discover Your<br/> Next Favorite <span class="accent">Game</span></h1>
+      <p>Premium game store — Action, Adventure, Horror, Racing &amp; Puzzle titles. Pay securely via UPI.</p>
+      <div class="hero-filters">
+        <button class="chip active" data-testid="hero-chip-all">All</button>
+        <button class="chip" data-testid="hero-chip-action">Action</button>
+        <button class="chip" data-testid="hero-chip-adventure">Adventure</button>
+        <button class="chip" data-testid="hero-chip-horror">Horror</button>
+        <button class="chip" data-testid="hero-chip-premium">Premium</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- GENRE SECTIONS will be injected here by script.js -->
+  <main id="sections-root"></main>
+
+  <!-- BROWSE BY GENRE -->
+  <section class="browse-by-genre" data-testid="browse-by-genre">
+    <div class="section-head">
+      <h2><i class="fa-solid fa-layer-group"></i> Browse by Genre</h2>
+      <p class="muted">Explore our curated game categories</p>
+    </div>
+    <div class="genre-grid" id="genreGrid"></div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="site-footer" data-testid="site-footer">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <div class="logo big">
+          <i class="fa-solid fa-gamepad"></i>
+          <span>@myanimestore__</span>
+        </div>
+        <p class="muted">Buy trending action, adventure, horror, racing and puzzle games anytime.</p>
+        <div class="socials">
+          <a href="#" data-testid="social-facebook"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#" data-testid="social-twitter"><i class="fa-brands fa-x-twitter"></i></a>
+          <a href="#" data-testid="social-youtube"><i class="fa-brands fa-youtube"></i></a>
+          <a href="#" data-testid="social-instagram"><i class="fa-brands fa-instagram"></i></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Navigate</h4>
+        <a href="#home">Home</a>
+        <a href="#action">Action</a>
+        <a href="#adventure">Adventure</a>
+        <a href="#horror">Horror</a>
+      </div>
+      <div class="footer-col">
+        <h4>Genres</h4>
+        <a href="#racing">Racing</a>
+        <a href="#puzzle">Puzzle</a>
+        <a href="#action">Shooters</a>
+        <a href="#adventure">Open World</a>
+      </div>
+      <div class="footer-col">
+        <h4>Support</h4>
+        <a href="#">Contact</a>
+        <a href="#">Help Center</a>
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 @myanimestore__. All rights reserved.</span>
+      <span>Made with <i class="fa-solid fa-heart" style="color:#ef4444"></i> for gamers.</span>
+    </div>
+  </footer>
+
+  <!-- UPI QR DROPDOWN (shared: Buy = fixed amount, Donate = editable amount) -->
+  <div id="qrBox" class="qr-box" data-testid="qr-box">
+    <h3 id="qrTitle">Scan &amp; Pay 💙</h3>
+    <div id="fixedAmountRow" class="fixed-amount" data-testid="fixed-amount">
+      <span class="label">Amount</span>
+      <span class="value" id="fixedAmount">₹0</span>
+    </div>
+    <input type="number" id="amount" placeholder="₹ Enter amount" data-testid="amount-input"/>
+    <img id="qr" alt="UPI QR"
+         src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=upi%3A%2F%2Fpay%3Fpa%3D9818284193%40axl%26pn%3DLOKESH%26cu%3DINR"/>
+    <div class="qr-meta">
+      <span>UPI: <strong>9818284193@axl</strong></span>
+      <a id="payLink" href="#" data-testid="pay-link">Submit Order Request</a>
+    </div>
+  </div>
+
+  <!-- Keep React root hidden (CRA dev server injects bundle) -->
+  <div id="root" style="display:none"></div>
+
+  <script src="script.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"7f7b0fd8732c4326aae4b9d58d5c514a","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
