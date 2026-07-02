@@ -48,12 +48,12 @@ images: [
     "https://apktodo.io/uploads/2025/11/summer-life-after-work-with-miko-free.jpg",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqWfh5-Ttw72gOu5aOtNVaSpiQzkWDgM-Ug&s",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPAbODpf-To_peGEV5hpD_SCXE5ZBQ4jn1KX-8raeEVj_cqkA",
-    "https://preview.redd.it/rise-of-eros-3rd-anniversary-with-50-free-pulls-v0-erhjefdtcnpf1.jpeg?width=640&crop=smart&auto=webp&s=96bf648e401c4db58e692455a593759cff4dfe35",
+    "https://cdn.androidadult.com/wp-content/uploads/2024/09/Shades-of-the-Past-APK-Android-Adult-Porn-Game-Download-Featured.png",
     "https://lewdzone.com/wp-content/uploads/2020/04/Once-in-a-Lifetime-Adult-Game-Screenshots-2.jpg",
     "https://imgdownload.juxia.com/upload/202412/13/e9122q9HTxz0kYA.jpg",
     "https://image.tensorartassets.com/cdn-cgi/image/w=600/model_showcase/705365060316500971/160c538c-7a96-22e4-5ccf-0a8144036d03.png",
     "https://lewdzone.com/wp-content/uploads/2024/09/Welcome-to-Paradise-Island-Adult-Game-Screenshots-1.jpg",
-    "https://us1.myximage.com/2024/08/31/6e2c44b810d432ab9f6f7d2371ae8aa2.png",
+    "https://cdn.androidadult.com/wp-content/uploads/2024/12/Polyturnon-APK-Android-Adult-Porn-Game-Latest-Version-Download-7.jpg",
     "https://pic.gameyj.com/gameyj/imgfile/20251211/11105612w1qu.jpg",
     "https://static.porngameshub.com/uploads/public/684/6d5/6f4/thumb_55607_500_375_0_0_crop.webp",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1y2AhuI5VyVzq0NxNRSK-Dn9gHO8m9oRhg&s",
@@ -64,9 +64,37 @@ images: [
 
   ],
   prices: [
-  99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,
-]
+  30,30,30,30,30,30,25,30,25,10,10,10,25,25,30,10,15,20,10,10,20,15,20,20,25,
+],
 
+
+links: [
+"https://t.me/c/3732184488/61",
+"https://t.me/c/3732184488/68",
+"https://t.me/c/3732184488/73",
+"https://t.me/c/3732184488/78",
+"https://t.me/c/3732184488/85",
+"https://t.me/c/3732184488/92",
+"https://t.me/c/3732184488/98",
+"https://t.me/c/3732184488/101",
+"https://t.me/c/3732184488/107",
+"https://t.me/c/3732184488/113",
+"https://t.me/c/3732184488/116",
+"https://t.me/c/3732184488/120",
+"https://t.me/c/3732184488/128",
+"https://t.me/c/3732184488/138",
+"https://t.me/c/3732184488/142",
+"https://t.me/c/3732184488/148",
+"https://t.me/c/3732184488/152",
+"https://t.me/c/3732184488/158",
+"https://t.me/c/3732184488/160",
+"https://t.me/c/3732184488/165",
+"https://t.me/c/3732184488/168",
+"https://t.me/c/3732184488/178",
+"https://t.me/c/3732184488/191",
+"https://t.me/c/3732184488/203",
+"https://t.me/c/3732184488/213"
+]
 
 
   },
@@ -75,31 +103,31 @@ images: [
     icon: "fa-compass",
     color: "#0891b2",
    items: [
-  "Android Game #1",
-  "Android Game #2",
-  "Android Game #3",
-  "Android Game #4",
-  "Android Game #5",
-  "Android Game #6",
-  "Android Game #7",
-  "Android Game #8",
-  "Android Game #9",
-  "Android Game #10",
-  "Android Game #11",
-  "Android Game #12",
-  "Android Game #13",
-  "Android Game #14",
-  "Android Game #15",
-  "Android Game #16",
-  "Android Game #17",
-  "Android Game #18",
-  "Android Game #19",
-  "Android Game #20",
-  "Android Game #21",
-  "Android Game #22",
-  "Android Game #23",
-  "Android Game #24",
-  "Android Game #25"
+  "Android Game #26",
+  "Android Game #27",
+  "Android Game #28",
+  "Android Game #29",
+  "Android Game #30",
+  "Android Game #31",
+  "Android Game #32",
+  "Android Game #33",
+  "Android Game #34",
+  "Android Game #35",
+  "Android Game #36",
+  "Android Game #37",
+  "Android Game #38",
+  "Android Game #39",
+  "Android Game #40",
+  "Android Game #41",
+  "Android Game #42",
+  "Android Game #43",
+  "Android Game #44",
+  "Android Game #45",
+  "Android Game #46",
+  "Android Game #47",
+  "Android Game #48",
+  "Android Game #49",
+  "Android Game #50"
 ],
 images: [
     "https://modapkloo.com/wp-content/uploads/2026/05/Sister-in-lawMirai-chan-APK-Screenshot-5-1024x461.webp",
@@ -130,41 +158,66 @@ images: [
 
   ],
   prices: [
-  99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,
+  10,10,20,25,30,20,20,30,20,30,30,25,20,10,10,15,15,25,25,20,25,20,20,20,20,
+],
+
+links: [
+  "https://t.me/c/3732184488/231",
+  "https://t.me/c/3732184488/236",
+  "https://t.me/c/3732184488/245",
+  "https://t.me/c/3732184488/253",
+  "https://t.me/c/3732184488/264",
+  "https://t.me/c/3732184488/274",
+  "https://t.me/c/3732184488/282",
+  "https://t.me/c/3732184488/286",
+  "https://t.me/c/3732184488/293",
+  "https://t.me/c/3732184488/303",
+  "https://t.me/c/3732184488/311",
+  "https://t.me/c/3732184488/319",
+  "https://t.me/c/3732184488/323",
+  "https://t.me/c/3732184488/325",
+  "https://t.me/c/3732184488/329",
+  "https://t.me/c/3732184488/335",
+  "https://t.me/c/3732184488/339", 
+  "https://t.me/c/3732184488/344",
+  "https://t.me/c/3732184488/354",
+  "https://t.me/c/3732184488/358",
+  "https://t.me/c/3732184488/367",
+  "https://t.me/c/3732184488/373"
 ]
 
 
   },
   horror: {
-    title: "Horror Games",
-    icon: "fa-ghost",
+    title: "Dating Games",
+    icon: "fa-book-open",
     color: "#7c3aed",
     items: [
-  "Android Game #1",
-  "Android Game #2",
-  "Android Game #3",
-  "Android Game #4",
-  "Android Game #5",
-  "Android Game #6",
-  "Android Game #7",
-  "Android Game #8",
-  "Android Game #9",
-  "Android Game #10",
-  "Android Game #11",
-  "Android Game #12",
-  "Android Game #13",
-  "Android Game #14",
-  "Android Game #15",
-  "Android Game #16",
-  "Android Game #17",
-  "Android Game #18",
-  "Android Game #19",
-  "Android Game #20",
-  "Android Game #21",
-  "Android Game #22",
-  "Android Game #23",
-  "Android Game #24",
-  "Android Game #25"
+  "Android Game #51",
+  "Android Game #52",
+  "Android Game #53",
+  "Android Game #54",
+  "Android Game #55",
+  "Android Game #56",
+  "Android Game #57",
+  "Android Game #58",
+  "Android Game #59",
+  "Android Game #60",
+  "Android Game #61",
+  "Android Game #62",
+  "Android Game #63",
+  "Android Game #64",
+  "Android Game #65",
+  "Android Game #66",
+  "Android Game #67",
+  "Android Game #68",
+  "Android Game #69",
+  "Android Game #70",
+  "Android Game #71",
+  "Android Game #72",
+  "Android Game #73",
+  "Android Game #74",
+  "Android Game #75"
 ],
 images: [
     "https://incgrepacks.com/api/media/file/melissa_phonetop1.webp",
@@ -195,40 +248,68 @@ images: [
 
   ],
   prices: [
-  99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,
+  20,25,25,30,10,10,10,10,20,15,20,20,20,20,10,15,15,20,25,10,10,10,15,15,15,
+],
+
+links: [
+  "https://t.me/c/3732184488/381",
+  "https://t.me/c/3732184488/388",
+  "https://t.me/c/3732184488/392",
+  "https://t.me/c/3732184488/399",
+  "https://t.me/c/3732184488/403",
+  "https://t.me/c/3732184488/410",
+  "https://t.me/c/3732184488/415",
+  "https://t.me/c/3732184488/420",
+  "https://t.me/c/3732184488/423",
+  "https://t.me/c/3732184488/429",
+  "https://t.me/c/3732184488/439",
+  "https://t.me/c/3732184488/444",
+  "https://t.me/c/3732184488/447",
+  "https://t.me/c/3732184488/450",
+  "https://t.me/c/3732184488/458",
+  "https://t.me/c/3732184488/465",
+  "https://t.me/c/3732184488/470",
+  "https://t.me/c/3732184488/475",
+  "https://t.me/c/3732184488/481",
+  "https://t.me/c/3732184488/487",
+  "https://t.me/c/3732184488/496",
+  "https://t.me/c/3732184488/500",
+  "https://t.me/c/3732184488/506",
+  "https://t.me/c/3732184488/512",
+  "https://t.me/c/3732184488/515"
 ]
 
   },
   racing: {
-    title: "Racing Games",
+    title: "Simulator Games",
     icon: "fa-flag-checkered",
     color: "#ea580c",
     items: [
-  "Android Game #1",
-  "Android Game #2",
-  "Android Game #3",
-  "Android Game #4",
-  "Android Game #5",
-  "Android Game #6",
-  "Android Game #7",
-  "Android Game #8",
-  "Android Game #9",
-  "Android Game #10",
-  "Android Game #11",
-  "Android Game #12",
-  "Android Game #13",
-  "Android Game #14",
-  "Android Game #15",
-  "Android Game #16",
-  "Android Game #17",
-  "Android Game #18",
-  "Android Game #19",
-  "Android Game #20",
-  "Android Game #21",
-  "Android Game #22",
-  "Android Game #23",
-  "Android Game #24",
-  "Android Game #25"
+  "Android Game #76",
+  "Android Game #77",
+  "Android Game #78",
+  "Android Game #79",
+  "Android Game #80",
+  "Android Game #81",
+  "Android Game #82",
+  "Android Game #83",
+  "Android Game #84",
+  "Android Game #85",
+  "Android Game #86",
+  "Android Game #87",
+  "Android Game #88",
+  "Android Game #89",
+  "Android Game #90",
+  "Android Game #91",
+  "Android Game #92",
+  "Android Game #93",
+  "Android Game #94",
+  "Android Game #95",
+  "Android Game #96",
+  "Android Game #97",
+  "Android Game #98",
+  "Android Game #99",
+  "Android Game #100"
 ],
 images: [
     "https://lewdzone.com/wp-content/uploads/2019/01/Little-Man-Adult-Game-Cover.jpg",
@@ -259,40 +340,69 @@ images: [
 
   ],
   prices: [
-  99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,
+  20,15,15,20,20,20,25,15,20,25,20,25,25,25,20,20,20,25,25,25,25,30,10,15,25,
+],
+
+links: [
+  "https://t.me/c/3732184488/520",
+  "https://t.me/c/3732184488/522",
+  "https://t.me/c/3732184488/528",
+  "https://t.me/c/3732184488/533",
+  "https://t.me/c/3732184488/540",
+  "https://t.me/c/3732184488/547",
+  "https://t.me/c/3732184488/554",
+  "https://t.me/c/3732184488/560",
+  "https://t.me/c/3732184488/569",
+  "https://t.me/c/3732184488/579",
+  "https://t.me/c/3732184488/584",
+  "https://t.me/c/3732184488/594",
+  "https://t.me/c/3732184488/599",
+  "https://t.me/c/3732184488/604",
+  "https://t.me/c/3732184488/612",
+  "https://t.me/c/3732184488/619",
+  "https://t.me/c/3732184488/627",
+  "https://t.me/c/3732184488/634",
+  "https://t.me/c/3732184488/644",
+  "https://t.me/c/3732184488/648",
+  "https://t.me/c/3732184488/655",
+  "https://t.me/c/3732184488/658",
+  "https://t.me/c/3732184488/662",
+  "https://t.me/c/3732184488/665",
+  "https://t.me/c/3732184488/675"
 ]
+
   
   },
   puzzle: {
-    title: "Puzzle Games",
-    icon: "fa-puzzle-piece",
+    title: "Visual Novel Games",
+    icon: "fa-book-open",
     color: "#059669",
     items: [
-  "Android Game #1",
-  "Android Game #2",
-  "Android Game #3",
-  "Android Game #4",
-  "Android Game #5",
-  "Android Game #6",
-  "Android Game #7",
-  "Android Game #8",
-  "Android Game #9",
-  "Android Game #10",
-  "Android Game #11",
-  "Android Game #12",
-  "Android Game #13",
-  "Android Game #14",
-  "Android Game #15",
-  "Android Game #16",
-  "Android Game #17",
-  "Android Game #18",
-  "Android Game #19",
-  "Android Game #20",
-  "Android Game #21",
-  "Android Game #22",
-  "Android Game #23",
-  "Android Game #24",
-  "Android Game #25"
+  "Android Game #101",
+  "Android Game #102",
+  "Android Game #103",
+  "Android Game #104",
+  "Android Game #105",
+  "Android Game #166",
+  "Android Game #107",
+  "Android Game #108",
+  "Android Game #109",
+  "Android Game #110",
+  "Android Game #111",
+  "Android Game #112",
+  "Android Game #113",
+  "Android Game #114",
+  "Android Game #115",
+  "Android Game #116",
+  "Android Game #117",
+  "Android Game #118",
+  "Android Game #119",
+  "Android Game #120",
+  "Android Game #121",
+  "Android Game #122",
+  "Android Game #123",
+  "Android Game #124",
+  "Android Game #125"
 ],
 images: [
     "https://cdn.androidadult.com/wp-content/uploads/2026/06/Kiss-of-Sin-Rewinding-Flame-11.webp",
@@ -323,8 +433,38 @@ images: [
 
   ],
   prices: [
-  99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,99,199,299,99,199,
+  20,25,10,20,20,20,20,20,20,20,20,20,20,20,25,25,20,25,25,25,20,25,30,25,25,
+],
+
+links: [
+  "https://t.me/c/3732184488/684",
+  "https://t.me/c/3732184488/697",
+  "https://t.me/c/3732184488/700",
+  "https://t.me/c/3732184488/707",
+  "https://t.me/c/3732184488/713",
+  "https://t.me/c/3732184488/717",
+  "https://t.me/c/3732184488/725",
+  "https://t.me/c/3732184488/729",
+  "https://t.me/c/3732184488/737",
+  "https://t.me/c/3732184488/747",
+  "https://t.me/c/3732184488/750",
+  "https://t.me/c/3732184488/753",
+  "https://t.me/c/3732184488/760",
+  "https://t.me/c/3732184488/766",
+  "https://t.me/c/3732184488/776",
+  "https://t.me/c/3732184488/781",
+  "https://t.me/c/3732184488/790",
+  "https://t.me/c/3732184488/796",
+  "https://t.me/c/3732184488/805",
+  "https://t.me/c/3732184488/813",
+  "https://t.me/c/3732184488/819",
+  "https://t.me/c/3732184488/829",
+  "https://t.me/c/3732184488/833",
+  "https://t.me/c/3732184488/841",
+  "https://t.me/c/3732184488/850"
 ]
+
+
 
   }
 };
@@ -340,13 +480,39 @@ function buildCards(genreKey) {
     const seed = genreKey + "-" + idx;
     const rating = (7.5 + ((idx * 17) % 25) / 10).toFixed(1);
    const price = g.prices ? g.prices[idx] : 0;
-    const oldPrice = price + 500 + ((idx * 37) % 700);
+    let oldPrice;
+
+if (price === 10) {
+    oldPrice = 99;
+} else if (price === 15) {
+    oldPrice = 149;
+} else if (price === 20) {
+    oldPrice = 199;    
+} else if (price === 25) {
+    oldPrice = 249;
+} else if (price === 30) {
+    oldPrice = 299;
+} else {
+    oldPrice = price;
+}
     const platformA = PLATFORMS[idx % PLATFORMS.length];
     const platformB = PLATFORMS[(idx + 2) % PLATFORMS.length];
     const year = 2020 + ((idx * 3) % 6);
     const img = g.images ? g.images[idx] : "";
     const isNew = idx < 2;
-    return { name, seed, rating, price, oldPrice, platformA, platformB, year, img, isNew };
+    return {
+  name,
+  seed,
+  rating,
+  price,
+  oldPrice,
+  platformA,
+  platformB,
+  year,
+  img,
+  isNew,
+  link: g.links ? g.links[idx] : "#"
+};
   });
 }
 
@@ -428,9 +594,13 @@ function appendCards(grid, items, offset) {
           <button class="btn btn-buy" data-price="${it.price}" data-name="${it.name}" data-testid="buy-${it.seed}">
             <i class="fa-solid fa-cart-shopping"></i> Submit Request
           </button>
-          <button class="btn btn-view" data-name="${it.name}" data-testid="view-${it.seed}">
-            <i class="fa-solid fa-eye"></i> View
-          </button>
+          <button
+  class="btn btn-view"
+  data-name="${it.name}"
+  data-link="${it.link}"
+  data-testid="view-${it.seed}">
+  <i class="fa-solid fa-eye"></i> View
+</button>
         </div>
       </div>
     `;
@@ -446,9 +616,9 @@ const genreGrid = document.getElementById("genreGrid");
 const tileData = [
   { key: "action", label: "Action", icon: "fa-bolt", cls: "tile-action" },
   { key: "adventure", label: "Adventure", icon: "fa-compass", cls: "tile-adventure" },
-  { key: "horror", label: "Horror", icon: "fa-ghost", cls: "tile-horror" },
-  { key: "racing", label: "Racing", icon: "fa-flag-checkered", cls: "tile-racing" },
-  { key: "puzzle", label: "Puzzle", icon: "fa-puzzle-piece", cls: "tile-puzzle" },
+  { key: "horror", label: "Dating", icon: "fa-ghost", cls: "tile-horror" },
+  { key: "racing", label: "Simulator", icon: "fa-flag-checkered", cls: "tile-racing" },
+  { key: "puzzle", label: "Visual Novel", icon: "fa-book-open", cls: "tile-puzzle" },
   { key: "action", label: "Strategy", icon: "fa-chess-knight", cls: "tile-strategy" }
 ];
 tileData.forEach(t => {
@@ -495,7 +665,7 @@ const qrTitle = document.getElementById("qrTitle");
 const fixedAmount = document.getElementById("fixedAmount");
 const donateBtn = document.getElementById("donateBtn");
 
-const upiID = "9818284193@axl";
+const upiID = "9818284193-2@ybl";
 const payeeName = "LOKESH";
 
 function buildUpiLink(val) {
@@ -578,11 +748,15 @@ document.addEventListener("click", (e) => {
   }
 
   // ----- VIEW -----
- const VIEW_REDIRECT_URL = "https://t.me/lokaranime1";
-  const view = e.target.closest(".btn-view");
+ const view = e.target.closest(".btn-view");
 
-  if (view) {
-    window.open(VIEW_REDIRECT_URL, "_blank");
+if (view) {
+    const link = view.dataset.link;
+
+    if (link) {
+        window.open(link, "_blank");
+    }
+
     return;
 }
 
